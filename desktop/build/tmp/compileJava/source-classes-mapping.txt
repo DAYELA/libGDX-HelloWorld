@@ -1,0 +1,2 @@
+fr/dayela/gdx/helloworld/desktop/DesktopLauncher.java
+ fr.dayela.gdx.helloworld.desktop.DesktopLauncher

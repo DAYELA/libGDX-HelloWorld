@@ -1,0 +1,2 @@
+fr/dayela/gdx/helloworld/HelloWorld.java
+ fr.dayela.gdx.helloworld.HelloWorld
