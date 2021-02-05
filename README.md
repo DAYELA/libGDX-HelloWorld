@@ -8,4 +8,4 @@
 - Développeur(s) : DAYELA
 
 ## Description
-WanelyFriends est le microservice de gestion des "friends" de Wanely
+libGDX green circle render with border collision
